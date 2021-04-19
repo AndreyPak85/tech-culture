@@ -1,4 +1,6 @@
 # tech-culture
-Frontend Internship in Tech Culture
+# Internship in Tech culture.
 
-Andrey Park
+### Intern Andrey Park
+
+
