@@ -3,10 +3,10 @@
 ## Intern - Andrey Park
 ===============================
 ### About me:
--- age: 35 years
--- city: Almaty
--- education: IAB(account)
--- email: andreypark.2021(_at_)gmail.com
+- age: 35 years
+- city: Almaty
+- education: IAB(account)
+- email: andreypark.2021(_at_)gmail.com
 ===============================
 ### Internship schedule
 
