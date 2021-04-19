@@ -7,6 +7,7 @@
 - city: Almaty
 - education: IAB(account)
 - email: andreypark.2021(_at_)gmail.com
+
 ===============================
 ### Internship schedule
 
