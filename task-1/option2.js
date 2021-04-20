@@ -1,15 +1,13 @@
-let nums1 = [1,2,3,4];
-let nums2 = [1,1,1,1,1];
-let nums3 = [3,1,2,10,1];
-
-let sum = 0;
-
 function sumArr(arr) {
     let sum = 0;
     return function() {
         return arr.map((i) => sum += i)
     }
 }
+
+const nums1 = [1,2,3,4];
+const nums2 = [1,1,1,1,1];
+const nums3 = [3,1,2,10,1];
 
 const runningSum1 = sumArr(nums1)
 console.log(runningSum1());
