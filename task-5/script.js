@@ -28,11 +28,12 @@ week.forEach((day) => {
         html += `
             <li>${day.italics()}</li>
         `
-        ul.innerHTML = html
+
     }
     else {
         html += `
             <li>${day}</li>
         `
     }   
+    ul.innerHTML = html
 })
