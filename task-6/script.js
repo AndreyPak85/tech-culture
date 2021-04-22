@@ -11,6 +11,15 @@
  */
 
 const books = document.querySelectorAll(".book");
+// Восстановить порядок книг
+document.querySelector(".books").append(books[1]);
+document.querySelector(".books").append(books[0]);
+document.querySelector(".books").append(books[4]);
+document.querySelector(".books").append(books[3]);
+document.querySelector(".books").append(books[5]);
+document.querySelector(".books").append(books[2]);
+
+
 // изменяем фоновую картинку
 document.body.style.backgroundImage="url(./image/you-dont-know-js.jpg)"
 
